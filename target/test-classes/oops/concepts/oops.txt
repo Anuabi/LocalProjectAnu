@@ -1,0 +1,14 @@
+OOPS concepts
+1. Abstraction
+2. Encapsulation
+3. inheritance
+4. polymorphism
+	4a. overloading - method Name - complie time polymorphism
+	5a. overriding - method signature - run time polymorphism
+	
+	goOut()
+	goOut(int a)
+	goOut(String name)
+	goOut(int a, String name)
+	goOut(String name, int a)
+	
